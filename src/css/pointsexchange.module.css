@@ -1,0 +1,30 @@
+.address {
+	font-size: 15px;
+	margin:  0;
+}
+
+.actionButtons {
+	margin: 0 5px 0 0;
+}
+
+.contractIndexKey {
+	padding: 2px 0 0 5px !important;
+}
+
+.contractIndexKeyButton {
+	padding: 0;
+	font-size: 15px;
+}
+
+.notesAdminTextCount {
+	float: right;
+	font-size:  12px;
+}
+
+.claimDepositsButton {
+	display: inline;
+}
+
+.hideCompletedContracts {
+	display:  none;
+}
